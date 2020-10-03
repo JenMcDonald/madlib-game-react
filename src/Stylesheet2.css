@@ -1,0 +1,35 @@
+body{
+    position: relative;
+    background-image: url(./ship.jpg);
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+label{
+    margin: 5px;
+}
+
+.submit{
+    border-radius: 5px;
+    border:1px solid;
+    margin: 10px;
+    height: 35px;
+    outline: none;
+    cursor: pointer;
+}
+
+.submit:hover{
+    margin: 8px;
+    font-weight: bold;
+}
+
+.input{
+    margin: 2px;
+}
+
+.homepage-text{
+    padding: 50px;
+}

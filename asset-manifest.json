@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/madlib-game-react/static/css/main.951570de.chunk.css",
+    "main.js": "/madlib-game-react/static/js/main.6a578f80.chunk.js",
+    "main.js.map": "/madlib-game-react/static/js/main.6a578f80.chunk.js.map",
+    "runtime-main.js": "/madlib-game-react/static/js/runtime-main.e5728269.js",
+    "runtime-main.js.map": "/madlib-game-react/static/js/runtime-main.e5728269.js.map",
+    "static/js/2.1adf7065.chunk.js": "/madlib-game-react/static/js/2.1adf7065.chunk.js",
+    "static/js/2.1adf7065.chunk.js.map": "/madlib-game-react/static/js/2.1adf7065.chunk.js.map",
+    "index.html": "/madlib-game-react/index.html",
+    "precache-manifest.c9c54d7a566ac341991006d686c92a95.js": "/madlib-game-react/precache-manifest.c9c54d7a566ac341991006d686c92a95.js",
+    "service-worker.js": "/madlib-game-react/service-worker.js",
+    "static/css/main.951570de.chunk.css.map": "/madlib-game-react/static/css/main.951570de.chunk.css.map",
+    "static/js/2.1adf7065.chunk.js.LICENSE.txt": "/madlib-game-react/static/js/2.1adf7065.chunk.js.LICENSE.txt",
+    "static/media/Stylesheet2.css": "/madlib-game-react/static/media/ship.0a103e9f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5728269.js",
+    "static/js/2.1adf7065.chunk.js",
+    "static/css/main.951570de.chunk.css",
+    "static/js/main.6a578f80.chunk.js"
+  ]
+}
